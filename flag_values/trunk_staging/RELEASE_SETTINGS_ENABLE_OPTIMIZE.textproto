@@ -1,0 +1,4 @@
+name: "RELEASE_SETTINGS_ENABLE_OPTIMIZE"
+value: {
+  bool_value: true
+}
